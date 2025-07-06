@@ -1,0 +1,19 @@
+{
+  "name": "wbdiscounttracker",
+  "version": "1.0.0",
+  "description": "Wildberries discount tracker",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Illia Moiseienko",
+  "license": "ISC",
+  "dependencies": {
+    "node-schedule": "^2.1.1",
+    "puppeteer": "^24.11.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "xlsx": "^0.18.5"
+  }
+}
