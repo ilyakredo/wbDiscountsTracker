@@ -1,0 +1,10 @@
+[
+  {
+    "productId": 123456,
+    "correctStartPrice": 250
+  },
+  {
+    "productId": 234567,
+    "correctStartPrice": 310
+  }
+]
