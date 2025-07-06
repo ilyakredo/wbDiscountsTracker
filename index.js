@@ -3,6 +3,9 @@ import { getActualPrice } from './scraper.js';
 import XLSX from 'xlsx';
 import fs from 'fs';
 import schedule from 'node-schedule';
+import path from 'path';
+import simpleGit from 'simple-git';
+
 const products = JSON.parse(fs.readFileSync('./products.json', 'utf-8'));
 const PRICE_START = 291.01;
 const PRICE_END = 611.01;
@@ -120,9 +123,35 @@ async function runAnalysis() {
 if (!fs.existsSync('./results')) fs.mkdirSync('./results');
 
 // Запускаем при старте
-await runAnalysis();
+// await runAnalysis();
 
 // ⏰ Повторяем каждый час
 schedule.scheduleJob('0 * * * *', async () => {
     await runAnalysis();
 });
+
+// Путь к JSON-файлу в репозитории
+const filePath = path.resolve('./discounts.json');
+
+const discountResults = [
+  { productId: 123456, correctStartPrice: 250 },
+  { productId: 234567, correctStartPrice: 310 },
+];
+
+fs.writeFileSync(filePath, JSON.stringify(discountResults, null, 2), 'utf-8');
+
+// 2. Пушим в GitHub
+const git = simpleGit();
+
+async function pushToGitHub() {
+  try {
+    await git.add('./discounts.json');
+    await git.commit('Update discounts.json [auto]');
+    await git.push();
+    console.log('✅ Успешно запушено в GitHub');
+  } catch (err) {
+    console.error('❌ Ошибка при пуше в GitHub:', err);
+  }
+}
+
+await pushToGitHub();
