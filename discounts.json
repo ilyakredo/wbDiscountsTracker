@@ -53,8 +53,8 @@
     {
       "productId": 257022967,
       "price": 301,
-      "discount": 0,
-      "actualPrice": 301
+      "discount": -3,
+      "actualPrice": 310
     },
     {
       "productId": 257022967,
