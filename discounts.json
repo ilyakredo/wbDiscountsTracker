@@ -245,68 +245,80 @@
     {
       "productId": 257022967,
       "price": 491,
-      "discount": 41,
-      "actualPrice": 291
+      "discount": 25,
+      "actualPrice": 369
     },
     {
       "productId": 257022967,
       "price": 501,
-      "discount": 42,
-      "actualPrice": 291
+      "discount": 26,
+      "actualPrice": 369
     },
     {
       "productId": 257022967,
       "price": 511,
-      "discount": 43,
-      "actualPrice": 291
+      "discount": 28,
+      "actualPrice": 369
     },
     {
       "productId": 257022967,
       "price": 521,
-      "discount": 38,
-      "actualPrice": 321
+      "discount": 29,
+      "actualPrice": 369
     },
     {
       "productId": 257022967,
       "price": 531,
-      "discount": 35,
-      "actualPrice": 345
+      "discount": 31,
+      "actualPrice": 369
     },
     {
       "productId": 257022967,
       "price": 541,
-      "discount": 30,
-      "actualPrice": 378
+      "discount": 32,
+      "actualPrice": 369
     },
     {
       "productId": 257022967,
       "price": 551,
-      "discount": 26,
-      "actualPrice": 405
+      "discount": 33,
+      "actualPrice": 369
     },
     {
       "productId": 257022967,
       "price": 561,
-      "discount": 27,
-      "actualPrice": 412
+      "discount": 34,
+      "actualPrice": 369
+    },
+    {
+      "productId": 257022967,
+      "price": 571,
+      "discount": 35,
+      "actualPrice": 369
     },
     {
       "productId": 257022967,
       "price": 581,
-      "discount": 24,
-      "actualPrice": 443
+      "discount": 36,
+      "actualPrice": 369
     },
     {
       "productId": 257022967,
       "price": 591,
-      "discount": 21,
-      "actualPrice": 464
+      "discount": 38,
+      "actualPrice": 369
+    },
+    {
+      "productId": 257022967,
+      "price": 601,
+      "discount": 39,
+      "actualPrice": 369
     },
     {
       "productId": 257022967,
       "price": 611,
-      "discount": 64,
-      "actualPrice": 220
+      "discount": 40,
+      "actualPrice": 369
     }
   ]
 ]
