@@ -20,123 +20,33 @@
     },
     {
       "productId": 259728876,
-      "price": 391,
-      "discount": 9,
-      "actualPrice": 354
-    },
-    {
-      "productId": 259728876,
-      "price": 401,
-      "discount": 12,
-      "actualPrice": 354
-    },
-    {
-      "productId": 259728876,
-      "price": 421,
-      "discount": 14,
-      "actualPrice": 363
-    },
-    {
-      "productId": 259728876,
-      "price": 431,
-      "discount": 16,
-      "actualPrice": 363
-    },
-    {
-      "productId": 259728876,
-      "price": 451,
-      "discount": 18,
-      "actualPrice": 372
+      "price": 411,
+      "discount": 10,
+      "actualPrice": 369
     },
     {
       "productId": 259728876,
       "price": 461,
-      "discount": 19,
-      "actualPrice": 372
-    },
-    {
-      "productId": 259728876,
-      "price": 471,
-      "discount": 22,
-      "actualPrice": 369
-    },
-    {
-      "productId": 259728876,
-      "price": 481,
-      "discount": 23,
-      "actualPrice": 369
-    },
-    {
-      "productId": 259728876,
-      "price": 491,
-      "discount": 25,
-      "actualPrice": 369
+      "discount": 16,
+      "actualPrice": 387
     },
     {
       "productId": 259728876,
       "price": 511,
-      "discount": 26,
-      "actualPrice": 378
-    },
-    {
-      "productId": 259728876,
-      "price": 521,
-      "discount": 27,
-      "actualPrice": 378
-    },
-    {
-      "productId": 259728876,
-      "price": 531,
-      "discount": 29,
-      "actualPrice": 378
-    },
-    {
-      "productId": 259728876,
-      "price": 541,
-      "discount": 30,
-      "actualPrice": 378
+      "discount": 18,
+      "actualPrice": 419
     },
     {
       "productId": 259728876,
       "price": 551,
-      "discount": 31,
-      "actualPrice": 378
-    },
-    {
-      "productId": 259728876,
-      "price": 561,
-      "discount": 33,
-      "actualPrice": 378
-    },
-    {
-      "productId": 259728876,
-      "price": 571,
-      "discount": 32,
-      "actualPrice": 387
-    },
-    {
-      "productId": 259728876,
-      "price": 581,
-      "discount": 33,
-      "actualPrice": 387
-    },
-    {
-      "productId": 259728876,
-      "price": 591,
-      "discount": 35,
-      "actualPrice": 387
+      "discount": 20,
+      "actualPrice": 440
     },
     {
       "productId": 259728876,
       "price": 601,
-      "discount": 36,
-      "actualPrice": 387
-    },
-    {
-      "productId": 259728876,
-      "price": 611,
-      "discount": 37,
-      "actualPrice": 387
+      "discount": 26,
+      "actualPrice": 444
     }
   ],
   [
@@ -160,117 +70,33 @@
     },
     {
       "productId": 252866361,
-      "price": 391,
-      "discount": 9,
-      "actualPrice": 354
-    },
-    {
-      "productId": 252866361,
-      "price": 401,
-      "discount": 12,
-      "actualPrice": 354
-    },
-    {
-      "productId": 252866361,
-      "price": 421,
-      "discount": 14,
-      "actualPrice": 363
-    },
-    {
-      "productId": 252866361,
-      "price": 431,
-      "discount": 16,
-      "actualPrice": 363
-    },
-    {
-      "productId": 252866361,
-      "price": 451,
-      "discount": 18,
-      "actualPrice": 372
+      "price": 411,
+      "discount": 10,
+      "actualPrice": 369
     },
     {
       "productId": 252866361,
       "price": 461,
-      "discount": 19,
-      "actualPrice": 372
+      "discount": 16,
+      "actualPrice": 387
     },
     {
       "productId": 252866361,
-      "price": 471,
-      "discount": 22,
-      "actualPrice": 369
-    },
-    {
-      "productId": 252866361,
-      "price": 481,
-      "discount": 23,
-      "actualPrice": 369
-    },
-    {
-      "productId": 252866361,
-      "price": 491,
-      "discount": 25,
-      "actualPrice": 369
-    },
-    {
-      "productId": 252866361,
-      "price": 501,
-      "discount": 26,
-      "actualPrice": 369
-    },
-    {
-      "productId": 252866361,
-      "price": 521,
-      "discount": 27,
-      "actualPrice": 378
-    },
-    {
-      "productId": 252866361,
-      "price": 531,
-      "discount": 29,
-      "actualPrice": 378
-    },
-    {
-      "productId": 252866361,
-      "price": 541,
-      "discount": 30,
-      "actualPrice": 378
+      "price": 511,
+      "discount": 18,
+      "actualPrice": 419
     },
     {
       "productId": 252866361,
       "price": 551,
-      "discount": 31,
-      "actualPrice": 378
-    },
-    {
-      "productId": 252866361,
-      "price": 571,
-      "discount": 32,
-      "actualPrice": 387
-    },
-    {
-      "productId": 252866361,
-      "price": 581,
-      "discount": 33,
-      "actualPrice": 387
-    },
-    {
-      "productId": 252866361,
-      "price": 591,
-      "discount": 35,
-      "actualPrice": 387
+      "discount": 20,
+      "actualPrice": 440
     },
     {
       "productId": 252866361,
       "price": 601,
-      "discount": 36,
-      "actualPrice": 387
-    },
-    {
-      "productId": 252866361,
-      "price": 611,
-      "discount": 35,
-      "actualPrice": 396
+      "discount": 17,
+      "actualPrice": 498
     }
   ]
 ]
