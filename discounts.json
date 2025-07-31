@@ -8,21 +8,9 @@
     },
     {
       "productId": 259728876,
-      "price": 351,
-      "discount": 3,
-      "actualPrice": 341
-    },
-    {
-      "productId": 259728876,
-      "price": 371,
+      "price": 361,
       "discount": 4,
-      "actualPrice": 356
-    },
-    {
-      "productId": 259728876,
-      "price": 401,
-      "discount": 6,
-      "actualPrice": 375
+      "actualPrice": 346
     },
     {
       "productId": 259728876,
@@ -33,20 +21,8 @@
     {
       "productId": 259728876,
       "price": 461,
-      "discount": 9,
-      "actualPrice": 419
-    },
-    {
-      "productId": 259728876,
-      "price": 471,
-      "discount": 14,
-      "actualPrice": 405
-    },
-    {
-      "productId": 259728876,
-      "price": 481,
       "discount": 12,
-      "actualPrice": 423
+      "actualPrice": 405
     },
     {
       "productId": 259728876,
@@ -63,8 +39,8 @@
     {
       "productId": 259728876,
       "price": 601,
-      "discount": 27,
-      "actualPrice": 438
+      "discount": 28,
+      "actualPrice": 432
     }
   ],
   [
@@ -76,27 +52,9 @@
     },
     {
       "productId": 233934926,
-      "price": 351,
-      "discount": 3,
-      "actualPrice": 341
-    },
-    {
-      "productId": 233934926,
       "price": 361,
-      "discount": 6,
-      "actualPrice": 341
-    },
-    {
-      "productId": 233934926,
-      "price": 371,
       "discount": 4,
-      "actualPrice": 356
-    },
-    {
-      "productId": 233934926,
-      "price": 401,
-      "discount": 6,
-      "actualPrice": 375
+      "actualPrice": 346
     },
     {
       "productId": 233934926,
@@ -107,20 +65,8 @@
     {
       "productId": 233934926,
       "price": 461,
-      "discount": 9,
-      "actualPrice": 419
-    },
-    {
-      "productId": 233934926,
-      "price": 471,
-      "discount": 14,
-      "actualPrice": 405
-    },
-    {
-      "productId": 233934926,
-      "price": 491,
       "discount": 12,
-      "actualPrice": 432
+      "actualPrice": 405
     },
     {
       "productId": 233934926,
