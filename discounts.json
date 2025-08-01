@@ -9,50 +9,14 @@
     {
       "productId": 259728876,
       "price": 361,
-      "discount": 3,
-      "actualPrice": 351
-    },
-    {
-      "productId": 259728876,
-      "price": 371,
-      "discount": 7,
+      "discount": 4,
       "actualPrice": 346
     },
     {
       "productId": 259728876,
-      "price": 381,
-      "discount": 9,
-      "actualPrice": 346
-    },
-    {
-      "productId": 259728876,
-      "price": 391,
+      "price": 411,
       "discount": 7,
-      "actualPrice": 365
-    },
-    {
-      "productId": 259728876,
-      "price": 401,
-      "discount": 9,
-      "actualPrice": 365
-    },
-    {
-      "productId": 259728876,
-      "price": 421,
-      "discount": 7,
-      "actualPrice": 391
-    },
-    {
-      "productId": 259728876,
-      "price": 441,
-      "discount": 9,
-      "actualPrice": 400
-    },
-    {
-      "productId": 259728876,
-      "price": 451,
-      "discount": 7,
-      "actualPrice": 419
+      "actualPrice": 382
     },
     {
       "productId": 259728876,
@@ -75,8 +39,8 @@
     {
       "productId": 259728876,
       "price": 601,
-      "discount": 24,
-      "actualPrice": 456
+      "discount": 25,
+      "actualPrice": 450
     }
   ],
   [
@@ -89,38 +53,14 @@
     {
       "productId": 233934926,
       "price": 361,
-      "discount": 3,
-      "actualPrice": 351
-    },
-    {
-      "productId": 233934926,
-      "price": 371,
-      "discount": 7,
+      "discount": 4,
       "actualPrice": 346
     },
     {
       "productId": 233934926,
-      "price": 381,
-      "discount": 9,
-      "actualPrice": 346
-    },
-    {
-      "productId": 233934926,
-      "price": 391,
+      "price": 411,
       "discount": 7,
-      "actualPrice": 365
-    },
-    {
-      "productId": 233934926,
-      "price": 401,
-      "discount": 9,
-      "actualPrice": 365
-    },
-    {
-      "productId": 233934926,
-      "price": 421,
-      "discount": 7,
-      "actualPrice": 391
+      "actualPrice": 382
     },
     {
       "productId": 233934926,
