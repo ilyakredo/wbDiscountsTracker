@@ -2,9 +2,9 @@
   [
     {
       "productId": 259728876,
-      "price": 291,
+      "price": 341,
       "discount": 0,
-      "actualPrice": 291
+      "actualPrice": 341
     },
     {
       "productId": 259728876,
@@ -84,12 +84,6 @@
       "productId": 233934926,
       "price": 601,
       "discount": 9,
-      "actualPrice": 546
-    },
-    {
-      "productId": 233934926,
-      "price": 611,
-      "discount": 11,
       "actualPrice": 546
     }
   ]
